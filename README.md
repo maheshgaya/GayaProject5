@@ -1,10 +1,10 @@
 # Social Media Sentiment Analysis
 `Text Classification`
 
-Data got from [here](https://inclass.kaggle.com/c/si650winter11)
+Data got from [here](https://inclass.kaggle.com/c/si650winter11/data)
 
 ## Data Description
-Quoted from the website
+Quoted from the [website](https://inclass.kaggle.com/c/si650winter11)
 
 ```
 This is a text classification task - sentiment classification. Every document (a line in the data file) 
